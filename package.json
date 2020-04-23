@@ -1,0 +1,15 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+	"record" : "cypress run --record --key 77c6ef16-dda0-4a8f-b35f-514f1d6c971a"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.4.1"
+  }
+}
